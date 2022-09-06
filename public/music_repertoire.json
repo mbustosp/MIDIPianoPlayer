@@ -1,0 +1,84 @@
+{
+  "repertoire": [
+    {
+      "title": "Ukraine National Anthem",
+      "filename": "ukraine_national_PNO.mid"
+    },
+    {
+      "title": "Chopin - Etude Revolutionary",
+      "filename": "chopin_etude_rev.mid"
+    },
+    {
+      "title": "Chopin - Etude 25 No. 1",
+      "filename": "chopin_etude25_1.mid"
+    },
+    {
+      "title": "Chopin - Op. 27 No. 1",
+      "filename": "chopin_op27_1.mid"
+    },
+    {
+      "title": "Chopin - Op. 64 No. 2",
+      "filename": "chopin-waltz64_2.mid"
+    },
+    {
+      "title": "Chopin - Ballade no.1 G minor",
+      "filename": "chopin_ballade23_g_minor.mid"
+    },
+    {
+      "title": "Mozart - Minuet",
+      "filename": "mozart_minuet.mid"
+    },
+    {
+      "title": "Death Waltz",
+      "filename": "death_waltz.mid"
+    },
+    {
+      "title": "Elgar - Salut D'Amour",
+      "filename": "elgar_salut_amour.mid"
+    },
+    {
+      "title": "Liszt - Liebestraum",
+      "filename": "liszt_liebestraum.mid"
+    },
+    {
+      "title": "CPE Bach - La Caroline",
+      "filename": "cpe-bach_le-caroline.mid"
+    },
+    {
+      "title": "Bach - Invention 771",
+      "filename": "bach_inventions_771.mid"
+    },
+    {
+      "title": "Bach - Invention 772",
+      "filename": "bach_inventions_772.mid"
+    },
+    {
+      "title": "Bach - Invention 773",
+      "filename": "bach_inventions_773.mid"
+    },
+    {
+      "title": "Bach - Invention 774",
+      "filename": "bach_inventions_774.mid"
+    },
+    {
+      "title": "Bach - Invention 775",
+      "filename": "bach_inventions_775.mid"
+    },
+    {
+      "title": "Bach - Sinfonia in c major, BWV 787",
+      "filename": "bach_sinfonias_bwv-787_(c)sankey.mid"
+    },
+    {
+      "title": "Bach - Sinfonia in c minor, BWV 788",
+      "filename": "bach_sinfonias_bwv-788_(c)sankey.mid"
+    },
+    {
+      "title": "Bach - Sinfonia in D major, BWV 789",
+      "filename": "bach_sinfonias_bwv-789_(c)sankey.mid"
+    },
+    {
+      "title": "Bach - Sinfonia in d minor, BWV 790",
+      "filename": "bach_sinfonias_bwv-790_(c)sankey.mid"
+    }
+  ]
+}
