@@ -5,10 +5,6 @@
  *
  * Do you have any cool ideas? Contact me!
  *
- * PS:
- *
- * - I had to make an SVG image of the piano keyboard. Those ones available on internet
- * lack of a proper strucure: ids, groups, etc.
  */
 
 import { FancyMidiPlayer } from "./midi";
@@ -20,7 +16,7 @@ import getMusicalPieces from "./midi/getMusicalPieces";
 const ready = function (cb) {
   document.readyState === "loading"
     ? // The document is still loading
-      document.addEventListener("DOMContentLoaded", function (e) {
+      document.addEventListener("DOMContentLoaded", function () {
         cb();
       })
     : // The document is loaded completely
@@ -30,11 +26,11 @@ const ready = function (cb) {
 ready(function () {
   // Let's grab the MIDI files
   const pieces = getMusicalPieces();
-  // Initiliaze the Piano Keyboard component
+  // Initialize the Piano Keyboard component
   const keyboardComponent = new FancyPiano();
-  // Initiliaze the MIDI player (TODO: Remove piano UI dependency)
+  // Initialize the MIDI player (TODO: Remove piano UI dependency)
   const midiPlayer = new FancyMidiPlayer(keyboardComponent);
-  // Initiliaze the main page UI
+  // Initialize the main page UI
   const playerPage = new PlayerPage({
     onMusicalPieceSelection: (pieceId) => {
       midiPlayer.stopMidi();
